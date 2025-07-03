@@ -1,3 +1,0 @@
-name id  address 
-sangee 1234 kpm 608602
-mitha 5678 kdm 605602
